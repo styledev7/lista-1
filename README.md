@@ -1,4 +1,4 @@
-# lista-1#EXTM3U
+#EXTM3U
 #EXTINF:-1,TELEAMAZONAS
 http://redcoliptv.com:8090/Cristobal20/Cristobal20/3166
 #EXTINF:-1,LA_HD:RCN
